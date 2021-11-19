@@ -7,5 +7,6 @@
 ### Homework4 is about fundamental knowledge of machine learning ,SGD for BOSTON datasets and K-means classification on Iris dataset.
 ### Homework5 is about a comparison between SGD,Newton and Adagrad together with the fundamental knowledge of descision tree.
 ### Homework6 is about a comparison between LinearRegression,RidgeRegression and LassoRegression together with the derivation of Backward Propagation.
-### Homework7 is about ...
+### Homework7 is about SVM methods for classification on MNIST and Fully Connected Network.
+### Homework8 is about ...
  
